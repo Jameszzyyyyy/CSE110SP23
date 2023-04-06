@@ -9,7 +9,7 @@ Programming Language I learned:
 > 2. Java
 > 3. C/C++
 
- `JAVA` is my favorite one
+ `JAVA` is my favorite one because I don't need to worry about memory leak
 
 ## As a person:
 My hubbies are:
