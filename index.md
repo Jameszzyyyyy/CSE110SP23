@@ -7,11 +7,6 @@
 
 ![image](https://github.com/Jameszzyyyyy/CSE110SP23/blob/main/pic.jpeg)
 
-## Sections
-- [Programmer](https://github.com/Jameszzyyyyy/CSE110SP23/edit/main/index.md#as-a-programmer)
-- [Personal](https://github.com/Jameszzyyyyy/CSE110SP23/edit/main/index.md#as-a-person)
-- [goal](https://github.com/Jameszzyyyyy/CSE110SP23/edit/main/index.md#goal-in-this-class)
-
 
 
 ## As a Programmer:
