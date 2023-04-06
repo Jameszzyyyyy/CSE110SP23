@@ -20,3 +20,9 @@ My hubbies are:
 [Lakers](https://www.nba.com/lakers?tmd=1) is my favorite team
  
 [My README.md](/README.md)
+
+
+##Goal in this class
+- [ ] make more friends
+- [ ] learn about software engineering
+- [ ] get a good grade
