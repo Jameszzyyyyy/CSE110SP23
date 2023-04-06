@@ -11,9 +11,9 @@ Programming Language:
  `JAVA` is my favorite one
 
 My hubbies are:
--Basketball
--video games
--golf
+- Basketball
+- video games
+- golf
 
 [Lakers](https://www.nba.com/lakers?tmd=1) is my favorite team
  
