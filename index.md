@@ -1,6 +1,10 @@
 # CSE110 LAB1
 **_Name: Ziyou(James) Zhao_**
 
+
+[here is the link to My README.md](/README.md)
+
+
 ![image](https://github.com/Jameszzyyyyy/CSE110SP23/blob/main/pic.jpeg)
 
 ## As a Programmer:
@@ -22,8 +26,6 @@ My hubbies are:
 
 
 ## Goal in this class
-
-[here is the link to My README.md](/README.md)
 
 - [ ] make more friends
 - [ ] learn about software engineering
