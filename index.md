@@ -23,7 +23,7 @@ My hubbies are:
 
 ## Goal in this class
 
-[My README.md](/README.md)
+[here is the link to My README.md](/README.md)
 
 - [ ] make more friends
 - [ ] learn about software engineering
