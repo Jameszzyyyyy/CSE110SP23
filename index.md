@@ -4,10 +4,10 @@
 ![image](https://github.com/Jameszzyyyyy/CSE110SP23/blob/main/pic.jpeg)
 
 ## As a Programmer:
-Programming Language:
-> Python
-> Java
-> C/C++
+Programming Language I learned:
+> 1. Python
+> 2. Java
+> 3. C/C++
 
  `JAVA` is my favorite one
 
