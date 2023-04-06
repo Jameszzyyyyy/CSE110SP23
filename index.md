@@ -1,8 +1,9 @@
-# CSE110 LA1
+# CSE110 LAB1
 **_Name: Ziyou(James) Zhao_**
 
 ![image](https://github.com/Jameszzyyyyy/CSE110SP23/blob/main/pic.jpeg)
 
+## As a Programmer:
 Programming Language:
 > Python
 > Java
@@ -10,6 +11,7 @@ Programming Language:
 
  `JAVA` is my favorite one
 
+## As a person:
 My hubbies are:
 - Basketball
 - video games
