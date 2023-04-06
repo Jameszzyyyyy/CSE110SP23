@@ -19,4 +19,4 @@ My hubbies are:
 
 [Lakers](https://www.nba.com/lakers?tmd=1) is my favorite team
  
-[Contribution guidelines for this project](VSCODE/README.md)
+[Contribution guidelines for this project](/README.md)
